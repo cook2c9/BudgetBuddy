@@ -5,11 +5,9 @@
 Budget Buddy is an application to help track your finances and shape your budget. The group is composed of the following
 members:
 
-**Tony Martin** - *Product Owner/Scrum Master/DevOps/GitHub Administrator*
-
 **Tony Herrera** - *Business Logic and Persistence Specialist*
 
-**Connor Cook** - *UI Specialist*
+**Connor Cook** - *Product Owner, Development Team, UI Specialist*
 
 **Yehya Hamed** - *Business Logic and Persistence Specialist / UI Specialist*
 
@@ -86,11 +84,9 @@ Here is our Scrum Board after the last sprint: ![Image of Scrum Board](https://i
 
 ## Scrum Roles
 
-**Tony Martin** - *Product Owner, Development Team*
+**Connor Cook** - *Product Owner, Development Team*
 
 **Tony Herrera** - *Scrum Master, Development Team*
-
-**Connor Cook** - *Development Team*
 
 **Yehya Hamed** - *Development Team*
 
